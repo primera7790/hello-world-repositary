@@ -1,4 +1,4 @@
-# hello-world-repositary
+# hello-world-repository
 
 My first repositary on GitHub.
 
